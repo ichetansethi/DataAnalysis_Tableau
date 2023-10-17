@@ -1,5 +1,5 @@
 # DataAnalysis_Tableau
-Data Analysis Project on Tableau for AirBnB about the trend in pricing, occupancy, and number of rooms available.
+Data Visualization Project on Tableau for AirBnB about the trend in pricing, occupancy, and number of rooms available.
 The link for the dashboard is: https://public.tableau.com/app/profile/chetan.sethi/viz/AirBnBDAProject/Dashboard1?publish=yes
 
 This link has a dashboard for the following dataset: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset?resource=download
